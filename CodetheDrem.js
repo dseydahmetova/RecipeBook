@@ -1,5 +1,3 @@
-# dseydahmetova
-Code the Dream project
 new p5();
 
 function setup() {
